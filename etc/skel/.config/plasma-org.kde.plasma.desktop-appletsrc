@@ -209,6 +209,14 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][113][Applets][133][Configuration]
 PreloadWeight=0
 
+[Containments][113][Applets][152]
+immutability=1
+plugin=org.kde.kalendar.contact
+
+[Containments][113][Applets][153]
+immutability=1
+plugin=org.kde.plasma.printmanager
+
 [Containments][113][Applets][156][Configuration]
 PreloadWeight=42
 
@@ -217,9 +225,9 @@ DialogHeight=600
 DialogWidth=800
 
 [Containments][113][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.kalendar.contact,org.kde.plasma.printmanager
 iconSpacing=1
-knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
 
 [Containments][144]
 activityId=
@@ -264,16 +272,32 @@ favoritesPortedToKAstats=true
 iconSize=100
 useCustomSizeGrid=true
 
+[Containments][144][Applets][170]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][144][Applets][170][Configuration][General]
+expanding=false
+
+[Containments][144][Applets][171]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][144][Applets][171][Configuration][General]
+expanding=false
+
 [Containments][144][ConfigDialog]
-DialogHeight=98
+DialogHeight=91
 DialogWidth=1920
 
 [Containments][144][General]
-AppletOrder=146;163;145;147
+AppletOrder=170;163;145;171
 
 [Containments][43]
-ItemGeometries-1920x1080=Applet-158:1104,128,752,416,0;
-ItemGeometriesHorizontal=Applet-158:1104,128,752,416,0;
+ItemGeometries-1272x628=Applet-158:462.6,-7.96092,800,416,0;
+ItemGeometries-1920x1080=Applet-158:1104,128,816,416,0;
+ItemGeometries-1920x975=Applet-158:1104,128,816,416,0;
+ItemGeometriesHorizontal=Applet-158:1104,128,816,416,0;
 activityId=1fe86127-d67b-4797-816f-87c2194fc798
 formfactor=0
 immutability=1
@@ -302,11 +326,11 @@ DialogWidth=800
 ToolBoxButtonState=top
 ToolBoxButtonX=525
 ToolBoxButtonY=56
-positions={"1920x1080":["3"\\,"16"\\,"desktop:/Xero"\\,"1"\\,"1"\\,"desktop:/PAKOS"\\,"2"\\,"7"\\,"desktop:/Text File.txt"\\,"2"\\,"1"]}
+positions={"1920x1080":[]\\,"1920x975":[]\\,"1272x628":[""]}
 sortMode=-1
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/PAKOSWALL11.jpg
+Image=file:///usr/share/wallpapers/PAKOSWALL24.jpeg
 SlidePaths=/usr/share/wallpapers,$HOME/.local/share/wallpapers/
 
 [Containments][50]
@@ -328,6 +352,14 @@ PreloadWeight=0
 [Containments][50][Applets][155]
 immutability=1
 plugin=org.kde.plasma.ksys76power
+
+[Containments][50][Applets][164]
+immutability=1
+plugin=org.kde.kalendar.contact
+
+[Containments][50][Applets][165]
+immutability=1
+plugin=org.kde.plasma.printmanager
 
 [Containments][50][Applets][51]
 immutability=1
@@ -424,8 +456,8 @@ PreloadWeight=42
 PreloadWeight=42
 
 [Containments][50][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
-knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
 
 [Containments][72]
 activityId=
@@ -448,6 +480,14 @@ PreloadWeight=0
 [Containments][72][Applets][154]
 immutability=1
 plugin=org.kde.plasma.ksys76power
+
+[Containments][72][Applets][166]
+immutability=1
+plugin=org.kde.kalendar.contact
+
+[Containments][72][Applets][167]
+immutability=1
+plugin=org.kde.plasma.printmanager
 
 [Containments][72][Applets][73]
 immutability=1
@@ -544,8 +584,8 @@ PreloadWeight=42
 PreloadWeight=42
 
 [Containments][72][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
-knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
 
 [Containments][92]
 activityId=
@@ -603,11 +643,19 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][92][Applets][149][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][92][Applets][153]
 immutability=1
 plugin=org.kde.plasma.ksys76power
+
+[Containments][92][Applets][168]
+immutability=1
+plugin=org.kde.kalendar.contact
+
+[Containments][92][Applets][169]
+immutability=1
+plugin=org.kde.plasma.printmanager
 
 [Containments][92][Applets][93]
 immutability=1
@@ -662,9 +710,9 @@ PreloadWeight=42
 PreloadWeight=42
 
 [Containments][92][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
-knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.kalendar.contact,org.kde.plasma.printmanager
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798
+screenMapping=desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798
