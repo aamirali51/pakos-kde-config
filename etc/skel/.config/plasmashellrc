@@ -18,13 +18,13 @@ floating=1
 panelVisibility=2
 
 [PlasmaViews][Panel 144][Defaults]
-maxLength=1920
-minLength=641
+maxLength=1088
+minLength=612
 thickness=40
 
 [PlasmaViews][Panel 144][Horizontal1920]
-maxLength=1920
-minLength=641
+maxLength=1088
+minLength=612
 thickness=40
 
 [PlasmaViews][Panel 2]
@@ -50,6 +50,7 @@ floating=1
 
 [PlasmaViews][Panel 66][Defaults]
 thickness=40
+
 [PlasmaViews][Panel 66][Horizontal1920]
 thickness=40
 

@@ -2,28 +2,25 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="135">
-  <name>WhiteSur Gtk Theme</name>
+  <name>Relax-GTK</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1403328</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1687595</homepage>
   <licence></licence>
-  <version></version>
-  <rating>94</rating>
-  <downloads>88608</downloads>
-  <installedfile>/home/aamir/.themes/WhiteSur-Dark-solid/*</installedfile>
-  <id>1403328</id>
-  <releasedate>2022-11-24</releasedate>
-  <summary>MacOS Big Sur like theme for Gnome desktops&lt;br />
------------------------&lt;br />
-&lt;strong>TIPS:&lt;/strong>&lt;br />
-Nvidia users are recommended to use the solid version&lt;br />
------------------------&lt;br />
-&lt;strong>Kde theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398840/" target="_blank"...</summary>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>182</downloads>
+  <installedfile>/home/aamir/.themes/Relax-GTK/*</installedfile>
+  <id>1687595</id>
+  <releasedate>2022-12-05</releasedate>
+  <summary>Dark GTK Theme&lt;br />
+&lt;br />
+Modified Original Breeze GTK Theme, adapted for Dark Plasma Theme &lt;span style="color: #489ab1;"> &lt;strong>Relax-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1687614/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here...</summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1403328/fada4d24285aea3004c357d630aefdb8653b.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1403328/fada4d24285aea3004c357d630aefdb8653b.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjkyOTg3NDAiLCJvIjoiMSIsInMiOiI5ZjdkNTU2MjkwZmZjYjI1NjNjMjNhOTg4MGQ1OTU0NjNmYTY4Mjc5OTFmZWE2MDZhMWQ0NDUxNDcwMTUwOTZkNjRmZGE3NmIyNTQwMDM4ZTgwYTFmNDZkMjE2YWY0MzA1MTg2ZmU5MDBmNjRlNTQxNjQxMTkyYjU5OTJjYjFkYiIsInQiOjE2NzA2NjM1NTAsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS45NS4yMTAifQ.9cwHpSnvEGQYoCBimik0Af9QAonMZcK11FRaiuvzvw8/WhiteSur-Dark-solid.tar.xz</payload>
-  <tags>linux,macos,macosx,gnome,gplv3,theme,unix,original-product,montrey,bigsur</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1687595/screenshot-20220926-092644.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1687595/screenshot-20220926-092644.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzAyMzUwMjUiLCJvIjoiMSIsInMiOiI1NzRmYWRlZDg3NzI4MWY3Mzg0OWRiNmFiNDRhNTRiOTYxNWM5MzQ4Mzg3MzQyOTc1M2Y4ZWY0OWYwZjE4ZTY5MzFmYjNhN2IxN2NlMzU5ZGIwMzFmMzE1OTE1YTc1NmE4ZWIwNGE5MzBkMjQyMDlhOGM4ZGRmZjJjMzU4NGVjOCIsInQiOjE2NzA2ODQzNTYsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS4xMDIuMSJ9.Hlj6E_-zYKqNQ2Gc5Mu2Oaa0WlQXdylMv_jkUu8p3YY/Relax-GTK.tar.gz</payload>
+  <tags>theme,unix,gplv3,gnome,efi,linux</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>
