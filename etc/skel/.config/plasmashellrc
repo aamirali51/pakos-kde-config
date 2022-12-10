@@ -20,12 +20,12 @@ panelVisibility=2
 [PlasmaViews][Panel 144][Defaults]
 maxLength=1920
 minLength=641
-thickness=44
+thickness=40
 
 [PlasmaViews][Panel 144][Horizontal1920]
 maxLength=1920
 minLength=641
-thickness=44
+thickness=40
 
 [PlasmaViews][Panel 2]
 floating=1
@@ -40,19 +40,18 @@ thickness=32
 floating=1
 
 [PlasmaViews][Panel 44][Defaults]
-thickness=42
+thickness=40
 
 [PlasmaViews][Panel 44][Horizontal1920]
-thickness=42
+thickness=40
 
 [PlasmaViews][Panel 66]
 floating=1
 
 [PlasmaViews][Panel 66][Defaults]
-thickness=42
-
+thickness=40
 [PlasmaViews][Panel 66][Horizontal1920]
-thickness=42
+thickness=40
 
 [PlasmaViews][Panel 88]
 alignment=132
