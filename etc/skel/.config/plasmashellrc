@@ -1,0 +1,68 @@
+[KFileDialog Settings]
+Recent Files[$e]=alena-aenami-bluehour-1k.jpg,file:///usr/share/backgrounds/PAKOS4.jpg,file:///usr/share/backgrounds/PAKOS3.jpg,file:///usr/share/backgrounds/PAKOS2.jpg,file:///usr/share/backgrounds/PAKOS1.jpg,file:///usr/share/wallpapers/PAKOS/alena-aenami-wings-hd.jpg,file:///usr/share/wallpapers/PAKOS/alena-aenami-stardust-1k.jpg,file:///usr/share/wallpapers/PAKOS/alena-aenami-lost-1k.jpg,file:///usr/share/wallpapers/PAKOS/alena-aenami-bluehour-1k.jpg
+Recent URLs[$e]=file:///usr/share/wallpapers/PAKOS/,file:///usr/share/backgrounds/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 107]
+floating=1
+
+[PlasmaViews][Panel 107][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 107][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 144]
+alignment=132
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 144][Defaults]
+maxLength=1920
+minLength=641
+thickness=44
+
+[PlasmaViews][Panel 144][Horizontal1920]
+maxLength=1920
+minLength=641
+thickness=44
+
+[PlasmaViews][Panel 2]
+floating=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 44]
+floating=1
+
+[PlasmaViews][Panel 44][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 44][Horizontal1920]
+thickness=42
+
+[PlasmaViews][Panel 66]
+floating=1
+
+[PlasmaViews][Panel 66][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 66][Horizontal1920]
+thickness=42
+
+[PlasmaViews][Panel 88]
+alignment=132
+floating=1
+
+[PlasmaViews][Panel 88][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 88][Horizontal1920]
+thickness=30
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js

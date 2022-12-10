@@ -1,0 +1,55 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAVgA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA3AD///8AAAO4AAABtwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAJb/////AAAAAAAAAAA=
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=483
+eDP-1 Width 1920x1080 eDP-1=952
+eDP-1 XPosition 1920x1080 eDP-1=463
+eDP-1 YPosition 1920x1080 eDP-1=302
+
+[Desktop Entry]
+DefaultProfile=arcolinux.profile
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
+[MainWindow]
+Height 1080=574
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAVgA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA3AD///8AAAO4AAABtwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAFH/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+VGA-1 Height 1920x1080=574
+VGA-1 Width 1920x1080=821
+VGA-1 XPosition 1920x1080=192
+VGA-1 YPosition 1920x1080=86
+Width 1920=821
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=483
+eDP-1 Width 1920x1080 eDP-1=952
+eDP-1 XPosition 1920x1080 eDP-1=415
+eDP-1 YPosition 1920x1080 eDP-1=326
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar sessionToolbar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[Toolbar sessionToolbar]
+IconSize=16
+ToolButtonStyle=IconOnly
+
+[UiSettings]
+ColorScheme=

@@ -1,0 +1,36 @@
+Height 1080=500
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAABzvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAABzgAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACNQAAAc4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1920=750
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[General]
+OpenExternallyCalledFolderInNewTab=false
+Version=202
+ViewPropsTimestamp=2020,1,29,15,5,0
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+Height 1080=477
+Width 1920=430
+eDP-1 Height 1920x1080 eDP-1=682
+eDP-1 Width 1920x1080 eDP-1=502
+
+[MainWindow]
+Height 1080=500
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=750
+Window-Maximized 1080x1920=true
+
+[Open-with settings]
+CompletionMode=1
+History=kate
+
+[PreviewSettings]
+Plugins=ebookthumbnail,windowsexethumbnail,appimagethumbnail,exrthumbnail,svgthumbnail,windowsimagethumbnail,kraorathumbnail,djvuthumbnail,cursorthumbnail,comicbookthumbnail,imagethumbnail,audiothumbnail,jpegthumbnail,opendocumentthumbnail,ffmpegthumbs,fontthumbnail,directorythumbnail

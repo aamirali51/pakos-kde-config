@@ -1,0 +1,18 @@
+[KFileDialog Settings]
+Recent Files[$e]=alena-aenami-lost-1k.jpg,file:///usr/share/sddm/themes/Starcraft/alena-aenami-lost-1k.jpg
+Recent URLs[$e]=file:///usr/share/sddm/themes/Starcraft/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080 eDP-1=532
+eDP-1 Width 1920x1080 eDP-1=477
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAQAAALAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=704
+eDP-1 Width 1920x1080 eDP-1=1028
+eDP-1 XPosition 1920x1080 eDP-1=446
+eDP-1 YPosition 1920x1080 eDP-1=225
