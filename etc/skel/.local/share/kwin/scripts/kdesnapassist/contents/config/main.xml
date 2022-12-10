@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+    <group name="">
+		<entry name="showOtherScreensWindows" type="bool">
+		  <label>Show windows from other screens</label>
+		  <default>false</default>
+		</entry>
+		<entry name="showOtherDesktopsWindows" type="bool">
+		  <label>Show windows from other desktops</label>
+		  <default>false</default>
+		</entry>
+		<entry name="showMinimizedWindows" type="bool">
+		  <label>Show minimized windows</label>
+		  <default>true</default>
+		</entry>
+		<entry name="showSnappedWindows" type="bool">
+		  <label>Show previously snapped windows</label>
+		  <default>true</default>
+		</entry>
+		<entry name="sortByLastActive" type="bool">
+		  <label>Sort windows by last active</label>
+		  <default>true</default>
+		</entry>
+		<entry name="descendingOrder" type="bool">
+			<label>Sort windows in descending order (newest > oldest)</label>
+		  <default>true</default>
+		</entry>
+		<entry name="rememberWindowSizes" type="bool">
+			<label>Remember window size to restore it on un-snap</label>
+		  <default>true</default>
+		</entry>
+		<entry name="minimizeSnappedTogether" type="bool">
+			<label>Minimize/restore snapped windows together</label>
+		  <default>false</default>
+		</entry>
+		<entry name="raiseSnappedTogether" type="bool">
+			<label>Raise snapped windows together</label>
+		  <default>false</default>
+		</entry>
+		<entry name="fillOnSnappedClose" type="bool">
+			<label>When close snapped window, try to fill the area</label>
+		  <default>false</default>
+		</entry>
+		<entry name="fillOnSnappedMove" type="bool">
+			<label>When moved snapped window, try to fill the area</label>
+		  <default>false</default>
+		</entry>
+		<entry name="fitWindowInGroupBehind" type="bool">
+			<label>Fit snapped window in group behind it, if any</label>
+		  <default>false</default>
+		</entry>
+		<entry name="cardColor" type="string">
+			<label>Card color</label>
+		  <default>#75475057</default>
+		</entry>
+		<entry name="hoveredCardColor" type="string">
+			<label>Card color (hover)</label>
+		  <default>#75d9dde1</default>
+		</entry>
+		<entry name="backdropColor" type="string">
+			<label>Background color</label>
+		  <default>#902a2e32</default>
+		</entry>
+		<entry name="textColor" type="string">
+			<label>Text color for cards</label>
+		  <default>#ffffff</default>
+		</entry>
+		<entry name="borderRadius" type="int">
+			<label>Border radius</label>
+		  <default>5</default>
+		</entry>
+		<entry name="transitionDuration" type="int">
+			<label>Transition duration on assist reveal</label>
+		  <default>150</default>
+		</entry>
+		<entry name="snapDetectPrecision" type="int">
+			<label>How much px a window size can differ to still count as snapped</label>
+			<default>0</default>
+		</entry>
+		<entry name="delayBeforeShowingAssist" type="int">
+			<label>Delay in ms before assist gets shown</label>
+			<default>100</default>
+		</entry>
+		<entry name="showDesktopBackground" type="bool">
+			<label>Show desktop background</label>
+			<default>false</default>
+		</entry>
+		<entry name="desktopBackgroundBlur" type="int">
+			<label>Amount of blur to apply to desktop background</label>
+			<default>18</default>
+		</entry>
+    </group>
+</kcfg>
