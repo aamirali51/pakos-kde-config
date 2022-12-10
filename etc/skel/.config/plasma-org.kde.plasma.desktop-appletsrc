@@ -28,7 +28,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][107][Applets][124][Configuration]
-PreloadWeight=70
+PreloadWeight=75
 popupHeight=500
 popupWidth=440
 
@@ -272,8 +272,8 @@ DialogWidth=1920
 AppletOrder=146;163;145;147
 
 [Containments][43]
-ItemGeometries-1920x1080=Applet-158:1248,16,741,384,0;
-ItemGeometriesHorizontal=Applet-158:1248,16,741,384,0;
+ItemGeometries-1920x1080=Applet-158:1104,128,752,416,0;
+ItemGeometriesHorizontal=Applet-158:1104,128,752,416,0;
 activityId=1fe86127-d67b-4797-816f-87c2194fc798
 formfactor=0
 immutability=1
@@ -302,11 +302,11 @@ DialogWidth=800
 ToolBoxButtonState=top
 ToolBoxButtonX=525
 ToolBoxButtonY=56
-positions={"1920x1080":["3"\\,"16"\\,"desktop:/PAKOS"\\,"2"\\,"7"\\,"desktop:/Text File.txt"\\,"2"\\,"1"\\,"desktop:/Xero"\\,"1"\\,"1"]}
+positions={"1920x1080":["3"\\,"16"\\,"desktop:/Xero"\\,"1"\\,"1"\\,"desktop:/PAKOS"\\,"2"\\,"7"\\,"desktop:/Text File.txt"\\,"2"\\,"1"]}
 sortMode=-1
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/PAKOS2.jpg
+Image=file:///usr/share/backgrounds/PAKOSWALL11.jpg
 SlidePaths=/usr/share/wallpapers,$HOME/.local/share/wallpapers/
 
 [Containments][50]
@@ -667,4 +667,4 @@ knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798
+screenMapping=desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798
