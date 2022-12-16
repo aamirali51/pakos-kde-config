@@ -28,7 +28,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][107][Applets][124][Configuration]
-PreloadWeight=75
+PreloadWeight=100
 popupHeight=500
 popupWidth=440
 
@@ -49,7 +49,11 @@ plugin=org.kde.plasma.kickoff
 [Containments][107][Applets][138][Configuration]
 PreloadWeight=100
 popupHeight=558
-popupWidth=711
+popupWidth=715
+
+[Containments][107][Applets][138][Configuration][ConfigDialog]
+DialogHeight=600
+DialogWidth=800
 
 [Containments][107][Applets][138][Configuration][General]
 favoritesPortedToKAstats=true
@@ -117,6 +121,13 @@ network/all/upload=212,62,16
 [Containments][107][Applets][151][Configuration][Sensors]
 highPrioritySensorIds=["network/all/download","network/all/upload"]
 
+[Containments][107][Applets][159]
+immutability=1
+plugin=com.pajuelo.plasmaConfSaver
+
+[Containments][107][Applets][159][Configuration]
+PreloadWeight=65
+
 [Containments][107][ConfigDialog]
 DialogHeight=98
 DialogWidth=1920
@@ -179,14 +190,14 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][113][Applets][123][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][113][Applets][126]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][113][Applets][126][Configuration]
-PreloadWeight=60
+PreloadWeight=70
 
 [Containments][113][Applets][127]
 immutability=1
@@ -200,7 +211,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][113][Applets][128][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][113][Applets][133]
 immutability=1

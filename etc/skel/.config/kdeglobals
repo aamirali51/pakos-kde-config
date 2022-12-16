@@ -113,12 +113,13 @@ smallestReadableFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 
 [Icons]
-Theme=Tela-circle-blue-dark
+Theme=WhiteSur-dark
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475
 ColorScheme=Breeze
 LookAndFeelPackage=Edna
+ShowDeleteCommand=false
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false

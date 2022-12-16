@@ -2,7 +2,7 @@
 ColorScheme=Edna
 
 [Icons]
-Theme=Tela-circle-blue-dark
+Theme=kora
 
 [KDE]
-widgetStyle=kvantum
+widgetStyle=kvantum-dark

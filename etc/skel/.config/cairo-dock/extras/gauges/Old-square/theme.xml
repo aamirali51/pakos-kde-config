@@ -1,0 +1,39 @@
+<gauge>
+	<name>Old Square</name>
+	<author>Adrien Pilleboue</author>
+	<file key="background">background.svg</file>
+	<file key="foreground">foreground.svg</file>
+	<indicator>
+		<posX>0</posX>
+		<posY>0</posY>
+		<posStart>-136</posStart>
+		<posStop>136</posStop>
+		<file key="needle">needle.svg</file>
+		<text_zone>
+			<x_center>0.</x_center>
+			<y_center>0.25</y_center>
+			<width>0.45</width>
+			<height>0.20</height>
+			<red>0.5</red>
+			<green>0.5</green>
+			<blue>0.6</blue>
+		</text_zone>
+		<label_zone>
+			<x_center>0.0</x_center>
+			<y_center>-0.30</y_center>
+			<width>0.45</width>
+			<height>0.22</height>
+			<red>0.3</red>
+			<green>0.3</green>
+			<blue>0.4</blue>
+			<alpha>0.8</alpha>
+		</label_zone>
+	</indicator>
+	<indicator>
+		<posX>0</posX>
+		<posY>0</posY>
+		<posStart>-136</posStart>
+		<posStop>136</posStop>
+		<file key="needle">needle2.svg</file>
+	</indicator>
+</gauge>

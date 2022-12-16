@@ -1,0 +1,14 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+window-position=773,106
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/Working/Screenshot/Screenshot_20221203_223424.png,file:$HOME/Documents/Working/Screenshot/Screenshot_20221204_161001.png,file:$HOME/Documents/Working/Screenshot/Screenshot_20221203_223527.png
+Recent URLs[$e]=file:$HOME/Documents/Working/Screenshot/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/aamir/Documents/Working/Screenshot/Screenshot_20221204_161001.png
+lastSaveLocation=file:///home/aamir/.config/plasmaConfSaver/15-12-22/screenshot.png

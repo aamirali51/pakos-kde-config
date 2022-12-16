@@ -3,6 +3,10 @@ Recent Files[$e]=alena-aenami-bluehour-1k.jpg,file:///usr/share/backgrounds/PAKO
 Recent URLs[$e]=file:///usr/share/wallpapers/PAKOS/,file:///usr/share/backgrounds/
 detailViewIconSize=16
 
+[KPropertiesDialog]
+eDP-1 Height 1920x1080 eDP-1=532
+eDP-1 Width 1920x1080 eDP-1=490
+
 [PlasmaViews][Panel 107]
 floating=1
 
@@ -18,13 +22,13 @@ floating=1
 panelVisibility=2
 
 [PlasmaViews][Panel 144][Defaults]
-maxLength=1088
-minLength=612
+maxLength=1920
+minLength=641
 thickness=40
 
 [PlasmaViews][Panel 144][Horizontal1920]
-maxLength=1088
-minLength=612
+maxLength=1920
+minLength=641
 thickness=40
 
 [PlasmaViews][Panel 2]
@@ -40,19 +44,19 @@ thickness=32
 floating=1
 
 [PlasmaViews][Panel 44][Defaults]
-thickness=40
+thickness=42
 
 [PlasmaViews][Panel 44][Horizontal1920]
-thickness=40
+thickness=42
 
 [PlasmaViews][Panel 66]
 floating=1
 
 [PlasmaViews][Panel 66][Defaults]
-thickness=40
+thickness=42
 
 [PlasmaViews][Panel 66][Horizontal1920]
-thickness=40
+thickness=42
 
 [PlasmaViews][Panel 88]
 alignment=132
