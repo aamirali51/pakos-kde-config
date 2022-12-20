@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=pakos-kde-config
 _destname1="/etc"
-pkgver=1.1
+pkgver=1.2
 pkgrel=11
 pkgdesc="Desktop Config for PAKOS"
 arch=('any')
