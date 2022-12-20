@@ -2,7 +2,7 @@
 pkgname=pakos-kde-config
 _destname1="/etc"
 pkgver=1.1
-pkgrel=7
+pkgrel=10
 pkgdesc="Desktop Config for PAKOS"
 arch=('any')
 url="https://github.com/aamirali51"
