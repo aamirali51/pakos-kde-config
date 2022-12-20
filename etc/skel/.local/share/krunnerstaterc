@@ -1,5 +1,5 @@
 [PlasmaRunnerManager]
-LaunchCounts=4 exec:///usr/bin/dolphin,1 org.kde.windowedwidgets_org.kde.plasma.calendar,3 exec:///usr/bin/meld,1 exec:///usr/bin/github-desktop
+LaunchCounts=1 org.kde.windowedwidgets_org.kde.plasma.calendar,4 exec:///usr/bin/dolphin,1 exec:///usr/bin/pamac-manager,2 exec:///usr/bin/github-desktop,4 exec:///usr/bin/meld
 
 [PlasmaRunnerManager][History]
 00000000-0000-0000-0000-000000000000=dol,githu

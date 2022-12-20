@@ -97,6 +97,10 @@ ForegroundNormal=183,186,195
 ForegroundPositive=31,140,236
 ForegroundVisited=127,140,141
 
+[DirSelect Dialog]
+DirSelectDialog Size=854,596
+History Items[$e]=file:///usr/share/wallpapers/
+
 [General]
 AllowKDEAppsToRememberWindowPositions=false
 BrowserApplication=google-chrome.desktop
@@ -113,7 +117,7 @@ smallestReadableFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 
 [Icons]
-Theme=WhiteSur-dark
+Theme=Tela-circle-blue-dark
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475
