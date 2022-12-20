@@ -276,8 +276,12 @@ ToolBoxButtonY=56
 positions={"1920x1080":[]\\,"1920x975":[]\\,"1272x628":[""]}
 sortMode=-1
 
+[Containments][170][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/PAKOSWALL14.jpg
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/PAKOSWALL24.jpeg
+Image=file:///usr/share/wallpapers/PAKOSWALL14.jpeg
 SlidePaths=/usr/share/wallpapers,$HOME/.local/share/wallpapers/
 
 [Containments][50]
