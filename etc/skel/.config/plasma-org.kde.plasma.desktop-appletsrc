@@ -240,11 +240,15 @@ extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.
 iconSpacing=1
 knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.plasma.printmanager,org.kde.kalendar.contact
 
+[Containments][170][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/PAKOSWALL14.jpg
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][43]
 ItemGeometries-1272x628=Applet-158:462.6,-7.96092,800,416,0;
 ItemGeometries-1920x1080=Applet-158:1104,208,816,416,0;
 ItemGeometries-1920x975=Applet-158:1104,128,816,416,0;
-ItemGeometriesHorizontal=Applet-158:1104,128,816,416,0;
+ItemGeometriesHorizontal=Applet-158:1104,208,816,416,0;
 activityId=1fe86127-d67b-4797-816f-87c2194fc798
 formfactor=0
 immutability=1
@@ -273,15 +277,11 @@ DialogWidth=800
 ToolBoxButtonState=top
 ToolBoxButtonX=525
 ToolBoxButtonY=56
-positions={"1920x1080":[]\\,"1920x975":[]\\,"1272x628":[""]}
+positions={"1920x1080":["1"\\,"16"\\,"desktop:/calamares.desktop"\\,"0"\\,"0"]\\,"1920x975":[]\\,"1272x628":[""]}
 sortMode=-1
 
-[Containments][170][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/PAKOSWALL14.jpg
-SlidePaths=/usr/share/wallpapers/
-
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/PAKOSWALL14.jpeg
+Image=file:///usr/share/wallpapers/PAKOSWALL21.png
 SlidePaths=/usr/share/wallpapers,$HOME/.local/share/wallpapers/
 
 [Containments][50]
@@ -661,9 +661,9 @@ PreloadWeight=42
 PreloadWeight=42
 
 [Containments][92][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.plasma.printmanager
-knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.plasma.printmanager
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.plasma.printmanager,org.kde.kalendar.contact
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.nightcolorcontrol,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.ksys76power,org.kde.plasma.printmanager,org.kde.kalendar.contact
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798
+screenMapping=desktop:/Text File.txt,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/calamares.desktop,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/PAKOS,0,1fe86127-d67b-4797-816f-87c2194fc798,desktop:/Xero,0,1fe86127-d67b-4797-816f-87c2194fc798
