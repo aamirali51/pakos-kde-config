@@ -1,8 +1,8 @@
 [Applications][google-chrome]
 Seen=true
 
-[Applications][org.manjaro.pamac.manager]
+[Applications][org.gnome.Boxes]
 Seen=true
 
-[Notifications]
-PopupTimeout=3000
+[Applications][org.manjaro.pamac.manager]
+Seen=true

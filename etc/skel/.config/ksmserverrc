@@ -1,5 +1,25 @@
-[$Version]
-update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
-
 [General]
 loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000172910492500000009320004
+clientId2=10145dbd1dd000172909978000000009630005
+clientId3=10145dbd1dd000172910220900000009630026
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10145dbd1dd000172909978000000009630005_1729105448_415633
+discardCommand3[$e]=rm,$HOME/.config/session/kate_10145dbd1dd000172910220900000009630026_1729105448_415633
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/dolphin
+program3=/usr/bin/kate
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000172910492500000009320004_1729105448_415616
+restartCommand2=/usr/bin/dolphin,-session,10145dbd1dd000172909978000000009630005_1729105448_415633
+restartCommand3=/usr/bin/kate,-session,10145dbd1dd000172910220900000009630026_1729105448_415633
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=aamir
+userId2=aamir
+userId3=aamir

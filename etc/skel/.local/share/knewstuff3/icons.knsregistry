@@ -2,90 +2,46 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="132">
-  <name>Fluent icon theme</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <name>McMojave-circle</name>
+  <providerid>api.kde-look.org</providerid>
   <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1477945</homepage>
+  <homepage>https://store.kde.org/p/1305429</homepage>
   <licence></licence>
   <version></version>
-  <rating>91</rating>
-  <downloads>5572</downloads>
-  <installedfile>/home/aamir/.local/share/icons/Fluent-grey/*</installedfile>
-  <installedfile>/home/aamir/.local/share/icons/Fluent-grey-dark/*</installedfile>
-  <id>1477945</id>
-  <releasedate>2022-11-30</releasedate>
-  <summary>Fluent icon theme&lt;br />
--------------&lt;br />
-&lt;strong>GTK theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1574551/" target="_blank" rel="nofollow">https://www.pling.com/p/1574551/&lt;/a>&lt;br />
--------------&lt;br />
-&lt;strong>KDE theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1544476/" target="_blank"...</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1477945/3629f20a3e9167cde8e0e0503f9d3ad4a8dd020edf5ff0abb4eb543f2e0d4ddf5d73.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1477945/3629f20a3e9167cde8e0e0503f9d3ad4a8dd020edf5ff0abb4eb543f2e0d4ddf5d73.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njk4Mjg2OTQiLCJvIjoiMSIsInMiOiIwNWVlODM1ZWFhOWY1NWQxYWNjMzEyYjg1MzM4YTYyNTE1YjliMWM0ODQ1NGJhNjUzNWM0YTc3NzU2NzA3YmNjNjMwNzhkMmFmNzZjZjc3NGY4NzE4ZDNmODAwMTJjYzg4OWFmOWVmMTQxYjM2YjkwNWJmZGU4NjM1YzI3ZWUwOCIsInQiOjE2NzA2NjM4OTEsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS45NS4yMTAifQ.KGF6zHURkGBUdsBUJggaadfKOrwJKeC6yToJ4ja_pvc/Fluent-grey.tar.xz</payload>
-  <tags>gplv3,icon-theme,linux,original-product,unix</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="132">
-  <name>MacOS-3D-Originals-Icons</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>abhishek-zambare</author>
-  <homepage>https://store.kde.org/p/1934655</homepage>
-  <licence></licence>
-  <version>1.0</version>
-  <rating>66</rating>
-  <downloads>2960</downloads>
-  <installedfile>/home/aamir/.local/share/icons/MacOS-3D-Icons-Black-Dark/*</installedfile>
-  <id>1934655</id>
-  <releasedate>2022-11-08</releasedate>
-  <summary>MacOS-3D-Originals-Icons</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/64/81/16/1934655/14.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/64/81/16/1934655/14.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Njc4OTMyNjAiLCJvIjoiMSIsInMiOiI1NjQzMDJjZWI2ZjRiODA5YmZmMDZhMzJkYzQ2Y2JmYWNiNmJkYWU2ZmJiODBhOGY4OGYyZDI2MzIyYmNiNWI4ZDQ1ZTQzNWFkYjYwZGVlMjBkZjVhMDA5NjQwN2NlYzIzNDY2MzljNTU2NzIyMTg5MjE3MTEzZWVjYzM2ZWJiOCIsInQiOjE2NzA2NjM5ODQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS45NS4yMTAifQ.lMKPMpO663StSJXT_KkrK03b2add5Xekn34XuLEPFVY/MacOS-3D-Icons-Black-Dark.zip</payload>
-  <tags>efi,linux,icon-theme,gplv3,unix</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="132">
-  <name>Zafiro icons</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/1209330</homepage>
-  <licence></licence>
-  <version>1.3.7</version>
-  <rating>90</rating>
-  <downloads>9063</downloads>
-  <installedfile>/home/aamir/.local/share/icons/Zafiro-Icons-Dark-Black-f/*</installedfile>
-  <id>1209330</id>
-  <releasedate>2022-12-08</releasedate>
-  <summary>&lt;span style="color: #415176;">zafiro-icons in an icon pack minimalist, less is more. with washed out colors and flat design technique, They are original icons, I have not based on any other product.&lt;br />
+  <rating>93</rating>
+  <downloads>18109</downloads>
+  <installedfile>/home/aamir/.local/share/icons/McMojave-circle/*</installedfile>
+  <installedfile>/home/aamir/.local/share/icons/McMojave-circle-dark/*</installedfile>
+  <installedfile>/home/aamir/.local/share/icons/McMojave-circle-light/*</installedfile>
+  <id>1305429</id>
+  <releasedate>2024-09-13</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this with:&lt;/strong>&lt;br />
+--------------------------&lt;br />
+&lt;strong>GTK theme&lt;/strong>&lt;br />
+Mojave-gtk-theme: &lt;a href="https://www.pling.com/p/1275087/" target="_blank" rel="nofollow">https://www.pling.com/p/1275087/&lt;/a>&lt;br />
 &lt;br />
-If you use this set to create your own product, I would appreciate it give me...</summary>
+&lt;strong>KDE theme&lt;/strong>&lt;br />
+McMojave-kde: &lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Folder-color&lt;/strong>&lt;br />
+Folder-color: &lt;a href="http://foldercolor.tuxfamily.org" target="_blank" rel="nofollow">http://foldercolor.tuxfamily.org&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>Info&lt;/strong>&lt;br />
+--------------------------&lt;br />
+This theme use &lt;strong>numix-icon-theme-circle&lt;/strong> for Inherits&lt;br />
+so if you want a better experience you can install numix-circle&lt;br />
+&lt;br />
+&lt;strong>numix-icon-theme-circle&lt;/strong> :&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1209330/e60f6d9e831b2565a8aceb17c6d723ac5da2.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1209330/e60f6d9e831b2565a8aceb17c6d723ac5da2.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY2MjQ0NzUiLCJvIjoiMSIsInMiOiI0Yzc1YTMyZjVkNWNjZGZmZTFkYjE2M2VhNTcyZjU2ODVmYTU1ZTNkN2RjOWZkYzZmMmUxN2ZkNGRjNmZlNzZhMjQ3NmZmODY4NWM0NWMxMjI1M2EyZjE4MjliYmI5ZDE5ZTg3ZTJjYTVlN2VjZGYxYzhhZmZhMzMxNTExZmNjNSIsInQiOjE2NzA2NjM5MzYsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS45NS4yMTAifQ.hphK5QZ7ra66rbNBARBPzmGP_xdgBFwvXzvG3rEVGDY/Zafiro-Icons-Dark-Black-f.tar.xz</payload>
-  <tags>plasma,unix,linux,kde,icon-theme,gnome,flat,original-product,1600x900,agplv3,xfce</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="132">
-  <name>Zafiro Nord Dark Blue</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>zayronXIO</author>
-  <homepage>https://store.kde.org/p/1937741</homepage>
-  <licence></licence>
-  <version>0.9.8</version>
-  <rating>69</rating>
-  <downloads>349</downloads>
-  <installedfile>/home/aamir/.local/share/icons/Zafiro-Nord-Black-Blue/*</installedfile>
-  <id>1937741</id>
-  <releasedate>2022-12-08</releasedate>
-  <summary>zafiro nord is a fork of the icon pack zafiro, The color palette of most of the icons, now i use a nordic color palette, has been modified as well as new "folders" icons have been added. the new design of the folder is now most consistent whit this new icon pack.</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1937741/bitmap.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1937741/bitmap.png</previewBig>
-  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzA0NzQ0OTkiLCJvIjoiMSIsInMiOiI5NmRlYTU1OGJlNGQ1MmNjZjU1ZTIxMTg2ZTNmNTZmMmM3YzA1MjAyNzA2YjRkNzAzYzU5M2MyZDYxNzkyODhhNzBmZjQ3YzEwZjg3MDVlNTBhNGE3ZTMwOGFkMjU3YTRjYmFlOGNiMThlZWFmNGNhYzMzNDQ5NmMzNGIzOGQwNSIsInQiOjE2NzA2NjM5NDQsInN0ZnAiOm51bGwsInN0aXAiOiIzOS42MS45NS4yMTAifQ.-qWvygVelasxjMfJMJwU7VytUC7XkiwdtdRxP-zvqLY/Zafiro-Nord-Black-Blue.tar.xz</payload>
-  <tags>icon-theme,efi,linux,agplv3,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1305429/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1305429/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjYyNTE4MDEiLCJvIjoiMSIsInMiOiJlNjE3MjVkNGRmYTBmNzZiOTFkNWU5NzI4ZDNmOTM1NmRhZGM5ZTU1MTFjYjU0NDBlMjg0MTc2MDMwM2U3NTRhNzZjNzdjOTI2OWYxNWIwZjkwMWIzOGMzZGI3MTliYmI2OWY0YWJiNjYyZmQ3NGFmOWYyZjc1MDllNmE1MjIyYSIsInQiOjE3Mjg4OTg3OTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMTkuMTU2LjE4MC4xNzEifQ.O_shxYBVPfs-gYmZfaH8LYUzOGHTSLkSQfFvgO9zS2U/01-McMojave-circle.tar.xz</payload>
+  <tags>gplv3,linux,icon-theme,unix</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>
