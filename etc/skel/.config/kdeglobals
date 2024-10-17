@@ -96,17 +96,18 @@ ForegroundPositive=156,83,198
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=960,540
-History Items[$e]=file:$HOME/Documents/GitHub/pakos-kde-config,file:$HOME/Downloads/otto/konsole,file:$HOME/Downloads/Otto
+DirSelectDialog Size=820,583
+History Items[$e]=file:$HOME/Downloads/Utterly-Nord,file:$HOME/Documents/Utterly-Nord-Plasma/kvantum-solid,file:$HOME/Documents/Utterly-Nord-Plasma/kvantum,file:$HOME/Documents/GitHub/pakos-kde-config,file:$HOME/Downloads/otto/konsole,file:$HOME/Downloads/Otto
 
 [General]
 BrowserApplication=google-chrome.desktop
-ColorScheme=Otto
-ColorSchemeHash=1855af013249ca56f062e72e20ae1e1f53db7c59
+ColorSchemeHash=faaf5d0b6da1b5cb6a1d51987c1f844813d2a797
+
+[Icons]
+Theme=McMojave-circle-dark
 
 [KDE]
 LookAndFeelPackage=Otto
-widgetStyle=kvantum
 
 [KFileDialog Settings]
 Allow Expansion=false
