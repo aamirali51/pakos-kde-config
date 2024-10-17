@@ -104,7 +104,7 @@ BrowserApplication=google-chrome.desktop
 ColorSchemeHash=faaf5d0b6da1b5cb6a1d51987c1f844813d2a797
 
 [Icons]
-Theme=McMojave-circle-dark
+Theme=Tela-circle-dark
 
 [KDE]
 LookAndFeelPackage=Otto
