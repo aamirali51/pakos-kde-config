@@ -101,12 +101,13 @@ History Items[$e]=file:$HOME/Downloads/Utterly-Nord,file:$HOME/Documents/Utterly
 
 [General]
 BrowserApplication=google-chrome.desktop
-ColorSchemeHash=faaf5d0b6da1b5cb6a1d51987c1f844813d2a797
+ColorSchemeHash=1855af013249ca56f062e72e20ae1e1f53db7c59
 
 [Icons]
 Theme=Tela-circle-dark
 
 [KDE]
+AnimationDurationFactor=0.35355339059327373
 LookAndFeelPackage=Otto
 
 [KFileDialog Settings]

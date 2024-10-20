@@ -17,12 +17,12 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][251][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
+DialogHeight=860
+DialogWidth=980
 
 [Containments][251][Wallpaper][org.kde.image][General]
-Image=/home/aamir/Downloads/otto/wallpaper/Otto_2021.png
-PreviewImage=/home/aamir/Downloads/otto/wallpaper/Otto_2021.png
+Image=/usr/share/wallpapers/SafeLanding/
+PreviewImage=/usr/share/wallpapers/SafeLanding/
 SlidePaths=/home/aamir/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][252]
@@ -40,7 +40,7 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][252][Applets][253][Configuration]
 PreloadWeight=100
-popupHeight=510
+popupHeight=512
 popupWidth=631
 
 [Containments][252][Applets][253][Configuration][General]
@@ -54,6 +54,15 @@ plugin=org.kde.plasma.pager
 immutability=1
 plugin=org.kde.plasma.icontasks
 
+[Containments][252][Applets][255][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][252][Applets][255][Configuration][General]
+highlightWindows=false
+iconSpacing=3
+launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.gnome.Meld.desktop
+
 [Containments][252][Applets][256]
 immutability=1
 plugin=org.kde.plasma.marginsseparator
@@ -63,7 +72,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][252][Applets][257][Configuration]
-PreloadWeight=55
+PreloadWeight=80
 SystrayContainmentId=258
 
 [Containments][252][Applets][270]
@@ -81,7 +90,7 @@ AppletOrder=253;254;255;256;257;270;271
 activityId=
 formfactor=2
 immutability=1
-lastScreen=-1
+lastScreen=0
 location=4
 plugin=org.kde.plasma.private.systemtray
 popupHeight=432
@@ -107,6 +116,9 @@ plugin=org.kde.plasma.manage-inputmethod
 [Containments][258][Applets][263]
 immutability=1
 plugin=org.kde.plasma.notifications
+
+[Containments][258][Applets][263][Configuration]
+PreloadWeight=65
 
 [Containments][258][Applets][264]
 immutability=1
@@ -139,16 +151,22 @@ plugin=org.kde.plasma.printmanager
 immutability=1
 plugin=org.kde.plasma.brightness
 
+[Containments][258][Applets][272][Configuration]
+PreloadWeight=0
+
 [Containments][258][Applets][273]
 immutability=1
 plugin=org.kde.plasma.battery
+
+[Containments][258][Applets][273][Configuration]
+PreloadWeight=0
 
 [Containments][258][Applets][274]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][258][Applets][274][Configuration]
-PreloadWeight=60
+PreloadWeight=100
 
 [Containments][258][Applets][274][Configuration][General]
 currentDetailsTab=details
@@ -157,10 +175,13 @@ currentDetailsTab=details
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
+[Containments][258][Applets][275][Configuration]
+PreloadWeight=0
+
 [Containments][258][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.kscreen,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/New Folder,0,7c76d5c9-36a7-4936-835e-0416b2925e19,desktop:/virtmanager issue fix,0,7c76d5c9-36a7-4936-835e-0416b2925e19
+screenMapping=desktop:/yad,0,7c76d5c9-36a7-4936-835e-0416b2925e19,desktop:/virtmanager issue fix,0,7c76d5c9-36a7-4936-835e-0416b2925e19,desktop:/New Folder,0,7c76d5c9-36a7-4936-835e-0416b2925e19,desktop:/welcom-app,0,7c76d5c9-36a7-4936-835e-0416b2925e19,desktop:/Scratch,0,7c76d5c9-36a7-4936-835e-0416b2925e19
